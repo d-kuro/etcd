@@ -9,11 +9,11 @@ require (
 	github.com/form3tech-oss/jwt-go v3.2.2+incompatible
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e
-	github.com/golang/protobuf v1.3.5
+	github.com/golang/protobuf v1.5.2
 	github.com/google/btree v1.0.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.2
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
-	github.com/grpc-ecosystem/grpc-gateway v1.14.6
+	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	github.com/jonboulle/clockwork v0.2.2
 	github.com/kr/pretty v0.2.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
@@ -34,13 +34,12 @@ require (
 	go.etcd.io/etcd/raft/v3 v3.5.0-alpha.0
 	go.uber.org/multierr v1.5.0
 	go.uber.org/zap v1.16.0
-	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0
-	golang.org/x/lint v0.0.0-20200302205851-738671d3881b // indirect
-	golang.org/x/net v0.0.0-20201202161906-c7110b5ffcbb
-	golang.org/x/sys v0.0.0-20210305215415-5cdee2b1b5a0
-	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e
-	google.golang.org/genproto v0.0.0-20200513103714-09dca8ec2884
-	google.golang.org/grpc v1.32.0
+	golang.org/x/crypto v0.0.0-20211108221036-ceb1ce70b4fa
+	golang.org/x/net v0.5.0
+	golang.org/x/sys v0.4.0
+	golang.org/x/time v0.1.0
+	google.golang.org/genproto v0.0.0-20230110181048-76db0878b65f
+	google.golang.org/grpc v1.53.0
 	sigs.k8s.io/yaml v1.2.0
 )
 
